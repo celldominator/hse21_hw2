@@ -1,7 +1,7 @@
 # hse21_hw2
 
 Часть 1: https://colab.research.google.com/drive/12dSgJbUUrsba41UY5o1vcPgek8LtDuXs?usp=sharing
-
+Часть 2: https://colab.research.google.com/drive/1-O13cjWn19IT7CQDo5erdJheLw-KtDuB?usp=sharing
 
 # Статистика
 
